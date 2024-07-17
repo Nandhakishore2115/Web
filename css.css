@@ -52,7 +52,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 40vw;
+  width: 20vw;
   height: 50px;
   border-radius: 20px;
   background: rgb(1, 128,118);
@@ -92,5 +92,6 @@
 }
 @keyframes btn{
   from{background:rgb(1, 128, 1);box-shadow: 0 0px 30px 0px rgba(136, 135, 135, 0.461), 0 0px 60px 0 rgba(136, 135, 135, 0.461);}
-  to{background:rgb(1, 128,118); }
+  to{background:rgb(1, 128
+,118); }
 }
